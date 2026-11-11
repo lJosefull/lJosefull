@@ -58,3 +58,9 @@
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=lJosefull&style=for-the-badge&color=1f6feb)
 
 </div>
+
+## 🌱 Actualmente
+
+- 🔭 Trabajando en [`morada`](https://github.com/lJosefull/morada) y [`plantilla-inmobiliaria`](https://github.com/lJosefull/plantilla-inmobiliaria).
+- 📚 Aprendiendo y mejorando cada día en desarrollo web y automatización.
+- 💬 Pregúntame sobre PHP, TypeScript, Python o SQL Server.
