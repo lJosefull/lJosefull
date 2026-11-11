@@ -49,8 +49,9 @@
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lJosefull&show_icons=true&hide_border=true&theme=transparent&locale=es)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=lJosefull&layout=compact&hide_border=true&theme=transparent&locale=es)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lJosefull&theme=github_dark" alt="Resumen de actividad en GitHub" />
+
+<img src="https://streak-stats.demolab.com?user=lJosefull&theme=dark&hide_border=true" alt="Racha de contribuciones" />
 
 </div>
 
